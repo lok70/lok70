@@ -7,7 +7,7 @@ Backend разработчик
 Я обучаюсь на 3 курсе на Мехмата ЮФУ. Имею опыт разработки веб приложений. Изучаю Golang, Docker, компьютерные сети.
 
 * 🌍  I'm based in Rostov-on-Don
-* ✉️  You can contact me at [lokwer321@gmail.com](mailto:lokwer321@gmail.com ) or Telegram [@kiiittto](@"https://t.me/kiiittto")
+* ✉️  You can contact me at [lokwer321@gmail.com](mailto:lokwer321@gmail.com )
 
 ### Skills
 
